@@ -1,0 +1,7 @@
+cprint("Rainbow!", "red", attrs=["reverse"])
+cprint("Rainbow!", "green", attrs=["reverse"])
+cprint("Rainbow!", "grey", attrs=["reverse"])
+cprint("Rainbow!", "yellow", attrs=["reverse"])
+cprint("Rainbow!", "blue", attrs=["reverse"])
+cprint("Rainbow!", "magenta", attrs=["reverse"])
+cprint("Rainbow!", "cyan", attrs=["reverse"])
